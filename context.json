@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2023-01-01",
+        "region": "North",
+        "sales": 1500,
+        "product": "Widget"
+    },
+    {
+        "date": "2023-01-02",
+        "region": "South",
+        "sales": 2000,
+        "product": "Gadget"
+    },
+    {
+        "date": "2023-01-03",
+        "region": "North",
+        "sales": 1700,
+        "product": "Widget"
+    },
+    {
+        "date": "2023-01-04",
+        "region": "East",
+        "sales": 1300,
+        "product": "Gizmo"
+    }
+]
